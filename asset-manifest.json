@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/metronome/static/css/main.dfd4b263.chunk.css",
+    "main.js": "/metronome/static/js/main.307df5e9.chunk.js",
+    "runtime-main.js": "/metronome/static/js/runtime-main.e61688e8.js",
+    "static/js/2.3a21db6c.chunk.js": "/metronome/static/js/2.3a21db6c.chunk.js",
+    "index.html": "/metronome/index.html",
+    "precache-manifest.7c553e448961ce60dab5407a0e32a0fd.js": "/metronome/precache-manifest.7c553e448961ce60dab5407a0e32a0fd.js",
+    "service-worker.js": "/metronome/service-worker.js",
+    "static/js/2.3a21db6c.chunk.js.LICENSE.txt": "/metronome/static/js/2.3a21db6c.chunk.js.LICENSE.txt",
+    "static/media/bpm-klack.wav": "/metronome/static/media/bpm-klack.7500ba6a.wav",
+    "static/media/bpm-pulse.wav": "/metronome/static/media/bpm-pulse.f7e089e4.wav"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e61688e8.js",
+    "static/js/2.3a21db6c.chunk.js",
+    "static/css/main.dfd4b263.chunk.css",
+    "static/js/main.307df5e9.chunk.js"
+  ]
+}
